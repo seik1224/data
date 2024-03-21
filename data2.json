@@ -1,20 +1,20 @@
 [
   {
-    "id": 0,
-    "title": "Mario",
-    "content": "nintendo product no.1",
-    "price": 60000
+    "id": 3,
+    "title": "Splatoon",
+    "content": "nintendo product no.4",
+    "price": 70000
   },
   {
-    "id": 1,
-    "title": "Zelda",
-    "content": "nintendo product no.2",
-    "price": 65000
+    "id": 4,
+    "title": "Kirby",
+    "content": "nintendo product no.5",
+    "price": 55000
   },
   {
-    "id": 2,
-    "title": "Pokemon",
-    "content": "nintendo product no.3",
-    "price": 68000
+    "id": 5,
+    "title": "Monster Hunter",
+    "content": "nintendo product no.6",
+    "price": 72000
   }
 ]
